@@ -6,7 +6,7 @@ My name is Jean Pierre Baraka Uwimana
 </p>
 
 </div>
-
+<p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <br />
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/><img alt="Angular.js" src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/><img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -23,16 +23,17 @@ My name is Jean Pierre Baraka Uwimana
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 <br />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
+</p>
+<p align="center">
 <a href="https://github.com/Baraka-Mugisha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Baraka-Mugisha&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&&hide=issues"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Baraka-Mugisha&langs_count=8&theme=gotham"/>
 </a>
-
+</p>
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baraka_Mugisha&&layout=compact&&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/Baraka-Mugisha/count.svg" />
 </p>
 
@@ -50,13 +51,12 @@ My name is Jean Pierre Baraka Uwimana
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on something...
+- 🌱 I’m currently learning everything..
+- 👯 I’m looking to collaborate on anything...
+- 🤔 I’m looking for help with nothing...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-

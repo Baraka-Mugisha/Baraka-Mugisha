@@ -24,12 +24,10 @@ My name is Jean Pierre Baraka Uwimana
 <br />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-<!-- <p align="center"> -->
 <a href="https://github.com/Baraka-Mugisha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Baraka-Mugisha&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&&hide=issues"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Baraka-Mugisha&langs_count=8&theme=gotham"/>
 </a>
-<!-- </p> -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baraka_Mugisha&&layout=compact&&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
